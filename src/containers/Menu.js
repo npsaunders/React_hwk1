@@ -1,4 +1,5 @@
-function Menu(props) {
+// Menu component. No props
+function Menu() {
   return (
     <div className="menu">
       <div id="menu-dashboard">Dashboard</div>

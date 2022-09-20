@@ -1,3 +1,4 @@
+// The dashboard contains all the components of the app and passes all the prop objects to the subcomponents
 import Menu from './Menu.js';
 import AvgRating from './AvgRating.js';
 import Reviews from './Reviews.js';

@@ -1,3 +1,4 @@
+// Number of Reviews component that has 1 property show the number of reviews
 function Reviews(props) {
   return (
     <div id="reviews">

@@ -1,3 +1,4 @@
+// Sentiment component that has 1 property object that contains 3 key:value pairs
 function Sentiment(props) {
   return (
     <div id="sentiment">Sentiment Analysis

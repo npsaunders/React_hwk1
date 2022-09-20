@@ -1,3 +1,4 @@
+// Average Rating Component. Uses 1 prop that displays the value
 function AvgRating(props) {
   return (
     <div id="avgRating">
