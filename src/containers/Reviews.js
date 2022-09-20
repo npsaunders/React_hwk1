@@ -1,6 +1,6 @@
 function Reviews(props) {
   return (
-    <div class="Reviews">
+    <div id="reviews">
       Reviews
       <div id="num-reviews">{props.numReviews}</div>
     </div>

@@ -37,12 +37,17 @@
   }
 }
 
-.avgRating {
+#avgRating {
   margin: 10px;
   border: 2px solid black;
 }
 
-.Reviews {
+#reviews {
+  margin: 10px;
+  border: 2px solid black;
+}
+
+#sentiment {
   margin: 10px;
   border: 2px solid black;
 }
